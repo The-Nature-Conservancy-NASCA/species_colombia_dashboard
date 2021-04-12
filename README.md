@@ -8,4 +8,4 @@ Please read the instruction manual to ensure:
 - Datasets availability and location
 - Relative path/folder structure
 
-Download the files [here (80MB)](https://drive.google.com/file/d/1TLzOpSCrzfYDkYiFAXA24Q4FYGb066Qy/view?usp=sharing)
+Download the files [here (80MB)](https://drive.google.com/file/d/1TLzOpSCrzfYDkYiFAXA24Q4FYGb066Qy/view?usp=sharing). However, please sure of using the latest R and pdf files version
